@@ -1,0 +1,7 @@
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio2\obj\Debug\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio2\obj\Debug\Exercicio2.pdb

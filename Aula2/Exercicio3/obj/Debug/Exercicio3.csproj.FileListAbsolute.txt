@@ -1,0 +1,6 @@
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio3\bin\Debug\Exercicio3.exe.config
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio3\bin\Debug\Exercicio3.exe
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio3\bin\Debug\Exercicio3.pdb
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio3\obj\Debug\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio3\obj\Debug\Exercicio3.exe
+C:\Users\Victor Nelo\source\repos\Projetos\Aula2\Exercicio3\obj\Debug\Exercicio3.pdb
