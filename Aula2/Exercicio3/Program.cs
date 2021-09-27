@@ -27,6 +27,7 @@ namespace Exercicio1
             public string Descricao {
                 get => descricao;
                 set => descricao = value;
+                
             }
 
             public string Ativo { 
